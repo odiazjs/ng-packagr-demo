@@ -1,0 +1,14 @@
+{
+  "name": "super-lib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/core": ">=7.0.0"
+  },
+  "ngPackage":
+  {
+    "lib": {
+      "entryFile": "index.ts"
+    },
+    "dest": "dist"
+  }
+}
